@@ -1,0 +1,53 @@
+[
+    {
+      "id": 12345,
+      "cover": "https://i.ibb.co/DfkBgcQ/image1-1.jpg",
+      "title": "The Quantum Paradox",
+      "author": "Cassandra Evergreen",
+      "author_img": "https://i.ibb.co/0QRxkd5/pexels-jan-kop-iva-3525908.jpg",
+      "posted_date": "2024-03-13",
+      "reading_time": 10,
+      "hashtags": ["#QuantumPhysics", "#SciFi", "#MindBending"]
+    },
+    {
+      "id": 67890,
+      "cover": "https://i.ibb.co/tQj8sfq/premium-photo-1684581214880-2043e5bc8b8b.jpg",
+      "title": "Enchanted Chronicles",
+      "author": "Griffin Stormbringer",
+      "author_img": "https://i.ibb.co/wYxp7d6/pexels-spencer-selover-428328.jpg",
+      "posted_date": "2024-03-14",
+      "reading_time": 8,
+      "hashtags": ["#Fantasy", "#Adventure", "#MagicalWorld"]
+    },
+    {
+      "id": 13579,
+      "cover": "https://i.ibb.co/jzgyGdd/1x1.jpg",
+      "title": "Cybernetic Dreams",
+      "author": "Aurora Steele",
+      "author_img":  "https://i.ibb.co/z8zx95w/pexels-davide-de-giovanni-1649675.jpg",
+      "posted_date": "2024-03-15",
+      "reading_time": 6,
+      "hashtags": ["#SciFi", "#Cyberpunk", "#AI"]
+    },
+    {
+      "id": 24680,
+      "cover": "https://i.ibb.co/tmH9fW9/blogging-website-and-internet-concept-banner-with-blog-word-sign-on-ERMBBJ.jpg",
+      "title": "Midnight Shadows",
+      "author": "Victor Nightshade",
+      "author_img": "https://i.ibb.co/pjM6Ybr/pexels-anastasia-shuraeva-9607206.jpg",
+      "posted_date": "2024-03-16",
+      "reading_time": 7,
+      "hashtags": ["#Mystery", "#Thriller", "#Noir"]
+    },
+    {
+      "id": 97531,
+      "cover": "https://i.ibb.co/tcd3FnG/fashion-blog-image-templates-1024x512.jpg",
+      "title": "Galactic Odyssey",
+      "author": "Celeste Stardust",
+      "author_img": "https://i.ibb.co/b7GT5nt/pexels-apunto-group-agencia-de-publicidad-7752813.jpg",
+      "posted_date": "2024-03-17",
+      "reading_time":5,
+      "hashtags": ["#SpaceAdventure", "#Exploration", "#Extraterrestrial"]
+    }
+  ]
+  
